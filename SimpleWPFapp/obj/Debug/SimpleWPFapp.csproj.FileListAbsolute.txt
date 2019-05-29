@@ -1,0 +1,15 @@
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\bin\Debug\SimpleWPFapp.exe.config
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\bin\Debug\SimpleWPFapp.exe
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\bin\Debug\SimpleWPFapp.pdb
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp.csprojAssemblyReference.cache
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\MainWindow.g.cs
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\App.g.cs
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp_MarkupCompile.cache
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp_MarkupCompile.lref
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\MainWindow.baml
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp.g.resources
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp.Properties.Resources.resources
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp.csproj.GenerateResource.cache
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp.csproj.CoreCompileInputs.cache
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp.exe
+C:\Users\nthor\source\repos\SimpleWPFapp\SimpleWPFapp\obj\Debug\SimpleWPFapp.pdb
